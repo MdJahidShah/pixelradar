@@ -1123,6 +1123,18 @@ a#searchIcon:hover i {
 .faq-widget{
     width: 100%;
 }
+a.textwhite {
+    color: #fff !important;
+}
+a.whitetext {
+    color: #000 !important;
+}
+a.whitetext:hover {
+    color: #fff !important;
+}
+a.texthover:hover{
+    color: #fff !important;
+}
 /* FAQ Widget Area End*/
 /*=====================================================================================
     11. Footer CSS
@@ -1501,6 +1513,7 @@ footer.comment-meta a:hover {
     .col-sm-12.upfooter {
         padding: 0 10%;
     }
+    .swing-img{display: none;}
 
 }
 /*------------------------------------------------------
