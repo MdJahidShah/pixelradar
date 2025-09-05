@@ -58,6 +58,13 @@ li {
     font-size: 1.3rem;
     list-style-position: inside; /* improves accessibility and alignment */
 }
+.btn-primary{
+    background: #0000FF !important;
+    color: #ffffff !important;
+}
+.btn-primary:hover{
+    background-color: #007bff !important;
+}
 .wp-caption {
     max-width: 100%;
     margin: 1em auto;
